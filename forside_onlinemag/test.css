@@ -1,0 +1,14 @@
+
+
+.morgenmad_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+} 
+
+.ingrediens_div {
+    flex-direction: column;
+    margin-left: 20%;
+    align-items: center;
+    text-align: left;
+}
